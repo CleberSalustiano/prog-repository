@@ -1,4 +1,4 @@
-# Prog Repositories
+# Repositories
 
 This program is possible create, read, update and delete (CRUD) a repository, like github repositories.
 
